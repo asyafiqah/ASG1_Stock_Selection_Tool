@@ -1,4 +1,4 @@
-# ASSIGNMENT1_StockSelectionTool
+# ASG1_STOCK_SELECTION_TOOL
 
 This project is a **Stock Selection Tool** built with Python to analyze closing prices of stocks in the Malaysian market using **YFinance** for historical stock data and **Pandas** for data manipulation. The tool allows user registration, stock price analysis, and record-keeping for future reference. Below are instructions on setting up, running, and using the application.
 
