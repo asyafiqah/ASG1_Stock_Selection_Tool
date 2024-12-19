@@ -31,8 +31,8 @@ Ensure the following are installed on your system:
 Download or clone the project files into your local system.
 ```bash
 # Clone the repository
-git clone https://github.com/username/stock-selection-tool.git
-cd stock-selection-tool
+git clone https://github.com/asyafiqah/ASG1_Stock_Selection_Tool.git
+cd ASG1_Stock_Selection_Tool
 ```
 
 ### 2. Install Python Libraries
